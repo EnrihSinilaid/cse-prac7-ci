@@ -1,0 +1,14 @@
+﻿Enrih@Endrey MINGW64 ~/Desktop/Kool/Tartu Ülikool/CSE/cse-prac7-ci (master)
+$ git commit
+============================= test session starts =============================
+platform win32 -- Python 3.7.1, pytest-4.5.0, py-1.8.0, pluggy-0.11.0
+rootdir: C:\Users\Enrih\Desktop\Kool\Tartu ▒likool\CSE\cse-prac7-ci
+collected 1 item
+
+test_sample.py .                                                         [100%]
+
+========================== 1 passed in 0.04 seconds ===========================
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
